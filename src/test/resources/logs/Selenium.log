@@ -1,0 +1,7 @@
+16:38:48,824 DEBUG devpinoyLogger:74 - Config file loaded !!!
+16:38:48,827 DEBUG devpinoyLogger:89 - OR file loaded !!!
+16:38:56,436 DEBUG devpinoyLogger:141 - Navigated to : http://www.zoho.com/
+16:38:58,059 DEBUG devpinoyLogger:170 - Clicking on an Element : loginlink_CSS
+16:38:58,109 DEBUG devpinoyLogger:184 - Typing in an Element : email_CSS entered value as : itoney7799@gmail.com
+16:38:58,332 DEBUG devpinoyLogger:170 - Clicking on an Element : nextbtn_XPATH
+16:38:58,351 DEBUG devpinoyLogger:184 - Typing in an Element : password_CSS entered value as : Tony@7799
