@@ -17,6 +17,7 @@ public class LoginTest extends BaseTest{
 		lp.doLogin(data.get("username"), data.get("password"));
 		System.out.print("Login");
 		System.out.print("Login22");
+		System.out.print("Login");
 		//Assert.fail("Login test failed");
 	
 		
