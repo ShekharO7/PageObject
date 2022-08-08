@@ -1,8 +1,12 @@
-08/08/2022 12:04:27 devpinoyLogger Config file loaded !!!
-08/08/2022 12:04:27 devpinoyLogger OR file loaded !!!
-08/08/2022 12:04:38 devpinoyLogger Navigated to : http://www.zoho.com/
-08/08/2022 12:04:42 devpinoyLogger Clicking on an Element : loginlink_CSS
-08/08/2022 12:04:42 devpinoyLogger Typing in an Element : email_CSS entered value as : itoney7799@gmail.com
-08/08/2022 12:04:42 devpinoyLogger Clicking on an Element : nextbtn_XPATH
-08/08/2022 12:04:42 devpinoyLogger Typing in an Element : password_CSS entered value as : Tony@7799
-08/08/2022 12:04:43 devpinoyLogger Clicking on an Element : signbtn_ID
+08/08/2022 14:26:22 devpinoyLogger Config file loaded !!!
+08/08/2022 14:26:22 devpinoyLogger OR file loaded !!!
+08/08/2022 14:26:48 devpinoyLogger Navigated to : http://www.zoho.com/
+08/08/2022 14:26:54 devpinoyLogger Clicking on an Element : loginlink_CSS
+08/08/2022 14:26:54 devpinoyLogger Typing in an Element : email_CSS entered value as : itoney7799@gmail.com
+08/08/2022 14:26:54 devpinoyLogger Clicking on an Element : nextbtn_XPATH
+08/08/2022 14:26:55 devpinoyLogger Typing in an Element : password_CSS entered value as : Tony@7799
+08/08/2022 14:26:55 devpinoyLogger Clicking on an Element : signbtn_ID
+08/08/2022 14:28:27 devpinoyLogger Clicking on an Element : crmlink_CSS
+08/08/2022 14:28:27 devpinoyLogger Clicking on an Element : accountstab_CSS
+08/08/2022 14:28:29 devpinoyLogger Clicking on an Element : createaccountbtn_CSS
+08/08/2022 14:28:34 devpinoyLogger Typing in an Element : accountname_CSS entered value as : Raman
